@@ -1,5 +1,5 @@
-### Learn Javascript
-- [ ] [nodeschool javascripting module](https://github.com/sethvincent/javascripting)
+### Learn HTML/CSS/Git etc
+- [x] [nodeschool javascripting module](https://github.com/sethvincent/javascripting)
 - [ ] [nodeschool learnyounode module](https://github.com/workshopper/learnyounode)
 - [ ] [nodeschool promises module](https://github.com/stevekane/promise-it-wont-hurt)
 - [x] [codeacademy Javascript - 11 hrs](https://www.codecademy.com/en/tracks/javascript)
@@ -7,4 +7,3 @@
 
 ### Learn HTML/CSS/Git etc
 - [x] [codeacademy HTML & CSS - 7hrs](https://www.codecademy.com/en/tracks/web)
-
