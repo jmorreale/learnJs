@@ -8,7 +8,7 @@
 
 
 ### Learn HTML/CSS/
-- [ ] Code School Front-end foundations
+- [ ] Code School Front-end foundations :rabbit:
 - [x] [codeacademy HTML & CSS - 7hrs](https://www.codecademy.com/en/tracks/web)
 - [x] CodeAcademy Make a Website - 3hrs.
 
