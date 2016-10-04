@@ -1,5 +1,5 @@
 ### Learn Javascript
-- [ ] UP & Going - You Don't know JS.
+- [ ] UP & Going - You Don't know JS: Chap 1
 - [ ] Javascript Beginner Track 4 hr 
 - [x] Code School Javascript Roadtrip.
 - [x] [nodeschool javascripting module](https://github.com/sethvincent/javascripting)
