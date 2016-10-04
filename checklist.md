@@ -1,6 +1,6 @@
 ### Learn Javascript
-- [ ] [Udacity Javascript basics](https://www.udacity.com/course/viewer#!/c-ud804/l-1930528550/e-1919128734/m-1936078574) 
-- [ ] [nodeschool promises module](https://github.com/stevekane/promise-it-wont-hurt)
+- [ ] UP & Going - You Don't know JS.
+- [ ] Javascript Beginner Track 4 hr 
 - [x] Code School Javascript Roadtrip.
 - [x] [nodeschool javascripting module](https://github.com/sethvincent/javascripting)
 - [x] [nodeschool learnyounode module](https://github.com/workshopper/learnyounode)
